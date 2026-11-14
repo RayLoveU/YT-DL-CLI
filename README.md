@@ -30,7 +30,7 @@ Files are saved to the current user's `Downloads` folder.
 
 ## Video formats
 
-- **MP4** — default
+- **MP4**
 - **MKV**
 - **WebM**
 
