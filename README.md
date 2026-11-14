@@ -4,9 +4,9 @@ A command-line downloader built with Python and [yt-dlp](https://github.com/yt-d
 
 ## Requirements
 
-- Python
+- `Python`
 - `yt-dlp`
-- FFmpeg for merging separate video and audio streams and converting audio
+- `FFmpeg`
 
 Install yt-dlp:
 
