@@ -38,4 +38,4 @@ When FFmpeg is installed, yt-dlp uses it to merge and remux video into the selec
 
 ## Audio formats
 
-MP3, WAV, M4A, AAC, FLAC, OGG (Vorbis), and OPUS are available. FFmpeg is required for audio extraction and conversion.
+MP3, WAV, M4A, AAC, FLAC, OGG (Vorbis), and OPUS.
