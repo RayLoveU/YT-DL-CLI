@@ -1,4 +1,4 @@
-# Video and Audio Downloader
+# Youtube Video and Audio Downloader
 
 A command-line downloader built with Python and [yt-dlp](https://github.com/yt-dlp/yt-dlp). It can download videos in MP4, MKV, or WebM, or extract audio in several formats.
 
