@@ -1,3 +1,4 @@
+<p align="center">
 # Youtube Video and Audio Downloader
 <p align="center">
  <img src="https://cdn.phototourl.com/anon/2026-11-14-2ce4338a-57b9-4e34-b34d-dca4201f9e49.png" width="300" />
