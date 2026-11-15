@@ -124,7 +124,7 @@ def show_download_progress(progress: dict) -> None:
         eta = progress.get("eta")
         eta_text = "calculating..." if eta is None else f"{int(eta) // 60:02d}:{int(eta) % 60:02d}"
 
-        print(f"\r{percentage} | ETA: {eta_text}"
+        print(f"\r{percentage} | ETA: {eta_text}")
     elif progress.get("status") in {"finished", "error"}:
         print()
 
